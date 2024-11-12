@@ -1,5 +1,5 @@
--- Abhinav Patel
--- 500119461
+-- Garvit Gandhi
+-- 500119058
 
 CREATE DATABASE company;
 USE company;
