@@ -52,20 +52,3 @@ Title: To understand the concepts of Trigger.
 EXPERIMENT-17
 Title: To understand the concepts of Trigger.
 
-EXPERIMENT-18
-Title: To understand the concepts of NoSQL Database
-
-EXPERIMENT-19
-Title: To understand the concepts of NoSQL Database
-
-EXPERIMENT-20
-Title: To understand the concepts of NoSQL Database
-
-EXPERIMENT-21
-Title: To understand the concepts of NoSQL Database
-
-EXPERIMENT-22
-Mini Project – On SQL
-
-EXPERIMENT-23
-Mini Project- On NoSQL
